@@ -1,3 +1,8 @@
+## 0.2.0 (March 22, 2019)
+  - Add VERSION and CHANGELOG.md files, Bump version to v0.1.0.
+  - Bump version to 0.3.0.
+  - Bump version to 0.1.1.
+
 ## 0.1.0 (March 22, 2019)
   - Bump version to 0.3.0.
   - Bump version to 0.1.1.
